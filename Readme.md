@@ -91,7 +91,7 @@ npm run server
 
 ## Watch Youtube video at:
 
-https://youtu.be/vNQtfhIyx8w
+https://www.youtube.com/watch?v=ww2VAi_6MNc
 
 ### DEPLOYMENT:
 
